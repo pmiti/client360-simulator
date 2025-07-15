@@ -1,0 +1,1001 @@
+﻿cliente_id,nombre,edad,provincia,ingresos_mensuales,gasto_mensual_promedio,score_endeudamiento
+1,Clara Arias,58,CABA,263372,1750806.09,1.7
+2,Mateo Valentin Fernandez Duarte,32,Córdoba,210041,3530794.29,3.19
+3,Sr(a). Maia Carrizo,65,CABA,124956,3544738.79,6.65
+4,Bautista Thiago Garcia,23,Chaco,50000,2787905.88,11.78
+5,Lucia Isabella Alvarez,45,Buenos Aires,255214,2944614.72,2.67
+6,Luisina Gutierrez,50,Chaco,210460,3318446.51,4.74
+7,Ignacio Agustina Vega Vazquez,19,Neuquén,236620,3539872.18,3.55
+8,Dr(a). Benjamin Martinez,52,Salta,309966,2205645.54,2.16
+9,Isabella Diaz Cardozo,32,Entre Ríos,76650,4354638.8,12.55
+10,Mateo Joaquin Ramos,18,Córdoba,122516,2517431.87,4.56
+11,Gonzalo Lopez,62,Salta,175018,2257153.74,4.2
+12,Lautaro Benjamin Flores,66,Tucumán,239229,2430991.75,1.85
+13,Victoria Moyano,24,CABA,145026,4638671.11,6.07
+14,Julia Thiago Nicolas Sanchez Lopez,40,Chaco,251671,2043238.76,2.48
+15,Violeta Alejo Martinez,34,Buenos Aires,187405,1707441.7,2.95
+16,Martin Acuña Escobar,42,CABA,101631,1905108.48,6.56
+17,Luciana Franco,53,Mendoza,253141,1046249.44,1.15
+18,Matias Cabrera Guzman,73,Tucumán,102474,3561826.42,9.32
+19,Dr(a). Bianca Velazquez,54,Santa Fe,193100,3862682.66,5.89
+20,Francisco Mateo Martinez Flores,32,Mendoza,176488,2554126.1,4.07
+21,Francesco Lucía  Flores,23,Santa Fe,252286,1464226.02,1.68
+22,Micaela Mateo Fernandez,47,Tucumán,141796,2544537.0,5.47
+23,Luca Benjamin Romero Rodriguez,28,Tucumán,126810,2596100.79,6.64
+24,Sr(a). Mateo Garcia,62,CABA,294026,2814842.69,2.23
+25,Mateo Agustin Jazmin Nuñez,56,Córdoba,141423,2665726.45,4.36
+26,Luna Sofia Sosa,47,Salta,187239,2947626.52,4.6
+27,Luna Isabella Gonzalez Correa,35,Neuquén,213441,1938285.9,1.67
+28,Dr(a). Sofia Ramos,67,Buenos Aires,269546,3379083.83,2.37
+29,Sr(a). Zoe Aguero,32,Buenos Aires,227465,4192545.41,5.47
+30,Thiago Lionel Helena Martin,22,Santa Fe,123782,2742633.6,5.07
+31,Lisandro Lopez Morales,54,Tucumán,221892,3424894.85,3.52
+32,Santino Nicolas Sara Pereyra,74,Entre Ríos,291506,2780449.17,3.04
+33,Ana Paula Barrios Ponce,27,Mendoza,284537,3306531.11,2.52
+34,Sr(a). Mia Valentina Medina,52,Mendoza,301706,2198657.35,1.83
+35,Isabella Moreno Gutierrez,65,Chaco,104639,4116049.68,9.88
+36,Ramiro Ojeda,41,Santa Fe,246025,2812843.27,3.67
+37,Juan Ignacio Perez,26,Neuquén,65783,2297256.7,4.41
+38,Facundo Mateo Blanco Escobar,73,CABA,205471,2591588.62,3.06
+39,Dr(a). Camila Godoy,27,Córdoba,221895,1410505.1,2.44
+40,Benicio Tobias Garcia,22,Salta,119124,4268137.36,9.18
+41,Olivia Alexander Rodriguez Fernandez,42,Chaco,298155,2917343.88,2.46
+42,Juan Ignacio Mia Rodriguez,53,Buenos Aires,197607,1686140.61,1.35
+43,Agostina Juana Campos,61,CABA,158698,2991647.15,4.62
+44,Lucia Navarro Rodriguez,35,Tucumán,109724,3771596.76,8.2
+45,Isabella Blanco,25,Mendoza,119314,1533362.75,4.49
+46,Sr(a). Ciro Miranda,64,Mendoza,235057,1944031.88,2.08
+47,Lucía Maidana,50,Córdoba,162095,3792420.17,5.72
+48,Dr(a). Delfina Romero,58,Mendoza,198169,1548508.64,2.2
+49,Sr(a). Jazmin Rodriguez,71,Neuquén,164308,2302863.37,4.52
+50,Victoria Camila Rodriguez,66,Córdoba,170860,4352505.47,6.26
+51,Mateo Ezequiel Luca Rivero Rodriguez,52,Neuquén,294269,3901133.06,3.63
+52,Vicente Alma Gutierrez Gonzalez,49,Buenos Aires,147007,1706856.6,4.61
+53,Agustin Blanco,25,Tucumán,309255,3073455.81,1.91
+54,Juan Ignacio Bianca Suarez,37,Santa Fe,95739,2357071.42,5.95
+55,Lautaro Zoe Jazmin Rodriguez,21,Santa Fe,339658,2404266.16,2.3
+56,Juan Ignacio Thiago Agustin Sosa Fernandez,23,Entre Ríos,65527,2746264.62,10.8
+57,Jazmin Candela Duarte Ramos,70,CABA,297740,2754775.12,2.05
+58,Dr(a). Facundo Figueroa,26,Córdoba,186393,1664779.2,3.05
+59,Dante Medina,60,Entre Ríos,245408,4262336.29,2.98
+60,Francesca Lautaro Benjamin Alvarez Silva,51,Chaco,184245,953446.25,1.48
+61,Sr(a). Faustino Herrera,45,Santa Fe,321060,2023603.7,2.03
+62,Octavio Juana Ramirez Ortiz,62,Santa Fe,142021,2963610.46,5.53
+63,Maria Belen Francesca Rodriguez,63,Mendoza,103849,2856017.83,7.37
+64,Thiago Lionel Sosa Romero,41,Entre Ríos,270792,1360534.6,1.65
+65,Antonella Sanchez,75,Neuquén,142396,3346151.77,4.82
+66,Maria Paz Lucero Romero,22,Tucumán,218124,3903796.09,5.77
+67,Luz Maria Martinez,19,Chaco,99458,2252646.87,5.21
+68,Jeremias Mendez Rojas,18,CABA,164571,4582283.07,7.4
+69,Mora Flores Molina,63,Buenos Aires,222921,4211125.91,4.84
+70,Francesca Maldonado Garcia,73,Tucumán,372224,2078100.52,1.14
+71,Guadalupe Miranda Avila,22,Neuquén,208957,5231843.41,6.98
+72,Dr(a). Catalina Rodriguez,31,Neuquén,318621,2355411.43,1.88
+73,Juan Pablo Tobias Sosa,26,Chaco,147020,2163491.31,3.29
+74,Dr(a). Tiziano Valentin Torres,48,Salta,172495,1099094.41,2.39
+75,Morena Perez,30,CABA,269687,2609107.64,2.98
+76,Benjamin Sosa,45,Salta,248605,4527471.93,4.25
+77,Emiliano Joaquin Martinez Guzman,47,Buenos Aires,93318,3221021.17,7.33
+78,Luciano Victoria Moyano Ruiz,24,Buenos Aires,50000,3489333.33,19.0
+79,Alma Lorenzo Torres,43,Tucumán,212029,3658661.3,4.31
+80,Sr(a). Victoria Rodriguez,30,Santa Fe,163443,3731619.2,6.79
+81,Sr(a). Alma Gutierrez,52,Entre Ríos,232424,3776088.57,4.33
+82,Dr(a). Lautaro Ezequiel Gonzalez,47,Santa Fe,239286,1732001.45,1.45
+83,Sr(a). Emilia Toledo,73,CABA,51016,2244202.06,15.68
+84,Sr(a). Alma Cabrera,53,CABA,255623,2855048.57,3.2
+85,Alma Isabella Aguero,21,Neuquén,308507,4007273.01,3.86
+86,Juan David Ponce Lopez,66,Santa Fe,50000,2646752.15,16.01
+87,Elena Gutierrez,28,Salta,144745,1646322.87,4.14
+88,Rosario Genaro Vazquez Sosa,43,Buenos Aires,204999,3678699.08,5.43
+89,Luz Maria Thiago Lionel Guzman,28,Salta,279591,3729633.34,2.93
+90,Sr(a). Octavio Vazquez,68,Entre Ríos,201078,4558236.56,5.36
+91,Bianca Quiroga,36,Salta,157337,2611619.27,5.07
+92,Nicolas Benjamin Suarez Juarez,68,Neuquén,77675,3141969.72,8.13
+93,Benjamin Santiago Ramirez,60,Entre Ríos,237799,4449467.79,4.94
+94,Jazmin Martinez Gonzalez,21,Chaco,255467,2044974.65,2.7
+95,Martín Julieta Lopez,65,Neuquén,264374,3320352.09,3.68
+96,Lola Navarro,21,Chaco,225936,4300442.75,4.23
+97,Dr(a). Juana Luna,48,Neuquén,286101,4190085.75,3.96
+98,Thiago Emanuel Aguirre Arias,21,Neuquén,152233,3100808.73,3.91
+99,Isabella Rodriguez Diaz,23,Córdoba,227275,1462878.89,1.71
+100,Uma  Rafael Ramirez Gomez,73,Santa Fe,212527,3146465.76,4.01
+101,Dante Catalina Toledo,43,CABA,296973,1898071.95,1.97
+102,Sr(a). Julia Nuñez,55,Chaco,162726,2531758.89,4.24
+103,Ignacio Blanco,20,Chaco,301897,2685758.86,2.66
+104,Bautista Thiago Joaquin Aguirre Lucero,54,Neuquén,257683,3186204.48,2.57
+105,Sr(a). Maria Luz Quiroga,38,Mendoza,235990,2443432.07,3.36
+106,Sr(a). Benjamin Farias,33,Mendoza,321761,3436828.99,2.42
+107,Bautista Benjamin Lopez,43,Córdoba,168080,4237470.94,7.13
+108,Juan Martin Valentina  Lopez,38,CABA,140448,2001550.48,4.14
+109,Sr(a). Mateo Joaquin Gomez,18,Entre Ríos,125478,4061901.31,9.04
+110,Dr(a). Nina Rodriguez,24,CABA,128990,2442255.72,4.69
+111,Maite Cabrera Rodriguez,52,Santa Fe,157382,2168096.67,3.93
+112,Dr(a). Giuliana Ferreyra,40,CABA,198424,2378935.83,3.8
+113,Benjamin Ezequiel Medina Herrera,74,Santa Fe,168012,1909536.13,1.98
+114,Sr(a). Francesca Muñoz,71,Neuquén,234267,5069021.42,4.46
+115,Sr(a). Juana Acosta,63,Mendoza,50000,3819665.04,16.73
+116,Valentina Gonzalez,59,Neuquén,50000,4526559.78,24.62
+117,Francisca Catalina Farias Miranda,18,Neuquén,163958,1760878.25,3.54
+118,Joaquin Ramirez,74,Córdoba,312419,3113670.49,2.44
+119,Santiago Rios,34,CABA,301375,3948311.21,3.82
+120,Sr(a). Emma Fernandez,27,Mendoza,115827,4600738.86,8.22
+121,Josefina Thiago Campos,36,Chaco,217951,4959937.45,5.69
+122,Felipe Bautista Perez,61,Mendoza,271080,4272002.63,3.84
+123,Alexander Ojeda,50,Entre Ríos,198768,2643296.4,4.12
+124,Catalina Lucas Benjamin Gonzalez Suarez,21,CABA,374817,4592123.34,2.87
+125,Sr(a). Julieta Martinez,58,Salta,211487,3837026.13,4.39
+126,Dr(a). Juana Lopez,39,Córdoba,178901,2530034.82,3.62
+127,Morena Benjamin Lopez,58,Mendoza,245564,792656.03,0.92
+128,Lucas Tiziano Godoy,63,Salta,273400,2747034.11,3.61
+129,Delfina Isabella Juarez,53,Buenos Aires,347029,3789424.97,2.21
+130,Dr(a). Bautista Gonzalez,62,Córdoba,324578,2031762.21,1.42
+131,Pilar Angel Gabriel Torres,52,Buenos Aires,253594,3294386.79,3.7
+132,Sofia Facundo Hernandez Martinez,27,Salta,108849,3320964.97,8.72
+133,Ciro Bautista Benjamin Martinez Maidana,26,Buenos Aires,138687,2771081.82,5.49
+134,Sofia Sosa,68,Buenos Aires,359950,3994897.77,3.23
+135,Paulina Acosta Rodriguez,75,Tucumán,215046,2077291.23,2.49
+136,Faustino Mateo Rios,24,Tucumán,258719,3429905.88,4.22
+137,Juan Cruz Franco Molina Garcia,67,Neuquén,260992,3330499.67,4.05
+138,Jeremias Gimenez,57,Córdoba,145637,3571386.12,7.42
+139,Dr(a). Juana Romero,33,Córdoba,344349,1596931.85,1.69
+140,Dr(a). Josefina Aguero,74,Salta,178257,2294400.35,3.4
+141,Camila Ferreyra Ramirez,19,Córdoba,193939,3856453.68,4.89
+142,Benjamin Valentina Rojas Farias,44,Santa Fe,128368,2724542.53,5.76
+143,Thiago Benjamin Rodriguez Diaz,35,Córdoba,208904,2511948.96,3.63
+144,Valentino Jazmin Ramirez Quiroga,73,Buenos Aires,162784,1506552.99,2.56
+145,Dr(a). Francisca Benitez,72,Entre Ríos,225392,2242393.12,2.12
+146,Emma Gonzalez Roldan,47,Tucumán,345135,2018800.26,2.09
+147,Victoria Thiago Nahuel Muñoz,37,Santa Fe,219896,4095513.22,5.51
+148,Tomas Benjamin Facundo Sanchez Gonzalez,43,Tucumán,315819,2206157.09,2.34
+149,Ramiro Gonzalez,35,CABA,263329,3127291.15,2.66
+150,Catalina Isabella Escobar Ruiz,59,Neuquén,186631,2760461.15,4.97
+151,Martina Martina Perez,43,Neuquén,190762,2036727.38,3.5
+152,Tomas Caceres,74,Mendoza,216520,3470673.54,4.34
+153,Camila Emma Villalba Maidana,29,Chaco,261108,1466153.46,1.68
+154,Francesca Rodriguez Suarez,24,Chaco,185343,3624868.66,4.71
+155,Santino Morales Velazquez,45,Tucumán,190671,3295490.06,4.71
+156,Angel Gabriel Rodriguez Gonzalez,56,Neuquén,131218,2693601.01,4.62
+157,Olivia Federico Ponce,25,Salta,241931,1777839.09,2.68
+158,Sr(a). Bautista Vazquez,20,Salta,169336,2928567.09,5.5
+159,Sr(a). Jeremias Guzman,18,Neuquén,288801,2559183.73,2.33
+160,Tiziano Angel Gabriel Gonzalez,64,Santa Fe,155157,3668967.55,6.33
+161,Valentino Isabella Garcia,41,Salta,306951,1495058.57,1.23
+162,Lucas Lucio Gomez Rodriguez,39,Chaco,250306,4003008.45,3.85
+163,Maria Belen Velazquez,38,CABA,187228,3550752.56,3.83
+164,Valentino Juan Ignacio Velazquez Rodriguez,37,Salta,133606,1826877.24,2.95
+165,Tiziano Torres,38,Salta,166875,2317407.33,4.71
+166,Francisca Morales Rodriguez,30,Salta,103824,3520322.53,9.05
+167,Sr(a). Guadalupe Chavez,60,Salta,123830,1833961.75,5.05
+168,Lucia Coronel,57,Chaco,50000,3798040.34,19.46
+169,Juan Ignacio Jazmin Suarez,37,Salta,197823,1336465.95,1.41
+170,Matias Ramos,36,Santa Fe,199324,2138206.68,3.65
+171,Bruno Lopez Nuñez,45,Chaco,144700,1693105.13,3.01
+172,Sr(a). Benicio Soria,46,Entre Ríos,156173,1072677.49,2.3
+173,Sol Godoy Garcia,61,Santa Fe,58202,4115060.34,18.51
+174,Guillermina Fernandez Molina,68,Córdoba,190028,4300332.27,4.43
+175,Juan Pablo Sanchez,60,CABA,175111,2421809.2,3.16
+176,Mateo Benjamin Rodriguez,57,Tucumán,315478,2606334.53,1.96
+177,Dr(a). Delfina Gutierrez,23,Santa Fe,173390,4191438.41,6.8
+178,Abril Simon Sosa,30,Córdoba,149516,2747261.38,5.73
+179,Thiago Benjamin Roldan Morales,19,Buenos Aires,202943,3378403.97,3.19
+180,Alma Valentina Luca Acosta Gonzalez,72,CABA,290788,4286928.18,2.97
+181,Dr(a). Morena Molina,47,Salta,279068,4722894.77,3.6
+182,Mateo Clara Gonzalez,63,Salta,131290,2828160.43,5.26
+183,Santiago Fernandez,49,Salta,204417,3274625.9,5.25
+184,Sr(a). Lara Lopez,18,CABA,316798,1813809.87,1.59
+185,Lourdes Maldonado,67,Salta,228100,2847062.41,1.38
+186,Alma Torres Torres,62,Neuquén,341693,3747724.75,3.34
+187,Jeremias Sosa,47,Buenos Aires,50000,5014329.73,18.89
+188,Valentino Benitez Caceres,25,Entre Ríos,136936,3035882.5,6.53
+189,Sr(a). Sofia Gomez,26,Entre Ríos,82333,5175429.57,11.79
+190,Valentina Nicolas Toledo,56,Tucumán,50000,4827077.45,24.13
+191,Juan Martin Martina Ortiz Suarez,66,Entre Ríos,103114,3187343.69,5.8
+192,Amparo Gonzalez Fernandez,50,Salta,117091,4124749.69,9.83
+193,Emiliano Sanchez Lopez,71,Neuquén,155589,1457869.07,1.76
+194,Mia Morena Escobar,73,Entre Ríos,215702,3634461.57,5.04
+195,Juan David Sanchez,46,Mendoza,201709,865115.99,1.12
+196,Josefina Mateo Martinez,35,Neuquén,50000,3205665.31,23.35
+197,Mia Dante Sanchez,49,Santa Fe,195054,1564876.96,1.65
+198,Tomas Julia Figueroa,36,Santa Fe,231747,2868542.06,2.81
+199,Guadalupe Figueroa,35,Tucumán,157707,1857882.68,3.86
+200,Ramiro Gomez Gutierrez,26,Córdoba,290305,1292870.63,1.14
+201,Olivia Fernandez,32,Salta,156796,2979484.14,4.46
+202,Bianca Ferreyra,22,Salta,82437,4106568.12,10.07
+203,Luciano Benjamin Thiago Nicolas Silva Gonzalez,44,Tucumán,120012,1898865.01,4.98
+204,Thiago Benjamin Benicio Perez Lopez,31,Salta,178058,2000473.2,3.89
+205,Sr(a). Lautaro Medina,42,Chaco,214986,1994679.92,2.98
+206,Agustin Rodriguez Suarez,74,Chaco,194717,1581321.56,2.16
+207,Bastian Joaquín Guzman Garcia,42,Entre Ríos,274439,2775443.88,2.38
+208,Guillermina Vicente Rodriguez Avila,66,Salta,202759,2661967.02,2.55
+209,Agustín Emma Lucero,72,Salta,73428,2479786.89,10.12
+210,Juan Ignacio Nicolas Vargas,69,Chaco,169006,2420022.78,4.66
+211,Sr(a). Octavio Juarez,75,Santa Fe,136301,1427739.33,2.76
+212,Valentina Vargas Valdez,49,Buenos Aires,204720,3946959.61,5.13
+213,Dr(a). Pilar Acosta,42,Tucumán,130167,4271502.74,9.17
+214,Antonio Luna Aguero,64,Córdoba,75077,1166382.4,4.09
+215,Francesca Castro,71,Entre Ríos,396699,2784661.37,2.03
+216,Guillermina Figueroa,52,Buenos Aires,91125,1579408.08,5.96
+217,Mateo Benitez,43,Chaco,182761,1221246.72,2.14
+218,Ana Paula Renata Olivera Silva,59,Salta,192618,4616146.13,5.71
+219,Dr(a). Pedro Sanchez,26,Entre Ríos,225830,4115928.88,4.82
+220,Franco Thiago Benjamin Aguirre,38,Santa Fe,256477,3050026.25,3.01
+221,Lorenzo Isabella Paz,47,Tucumán,113984,3276298.25,6.3
+222,Mateo Castro Ramirez,35,Salta,340365,2756610.13,2.09
+223,Benjamin Valentin Diaz,34,CABA,69287,2133960.62,6.93
+224,Camila Vega,21,Tucumán,224674,3118679.79,4.6
+225,Sofia Lola Flores Garcia,32,CABA,222657,3336889.88,4.54
+226,Ian Ezequiel Sofia Romero Sanchez,66,Buenos Aires,86032,3925550.54,10.18
+227,Sr(a). Nina Suarez,33,Santa Fe,259283,2879585.25,2.38
+228,Sr(a). Felipe Torres,33,Córdoba,105577,4422242.03,9.79
+229,Sr(a). Bianca Castillo,48,CABA,148373,1324830.02,1.57
+230,Julieta Sosa,62,Mendoza,178055,4589251.98,5.58
+231,Dr(a). Victoria Cordoba,67,Tucumán,254017,3376438.48,3.23
+232,Salvador Martinez Martin,65,CABA,295104,3732841.9,3.22
+233,Lara Rivero,67,Córdoba,237330,3750529.28,4.05
+234,Renata Caceres,19,Mendoza,191587,4034360.36,4.27
+235,Santino Gimenez Caceres,54,Salta,99038,3269548.14,11.18
+236,Mora Juana Avila Gomez,22,Chaco,276647,2312332.72,2.44
+237,Sr(a). Tobias Moyano,62,Santa Fe,310396,1622054.02,1.14
+238,Isabella Francisca Ortiz,72,Chaco,282240,4304398.58,4.06
+239,Alma Gonzalez Villalba,69,CABA,229600,2302180.69,2.27
+240,Valentino Sanchez Sanchez,20,Tucumán,100974,1719024.34,5.61
+241,Maria Victoria Nuñez,52,Salta,184041,1764722.27,1.97
+242,Vicente Ruiz,59,Tucumán,174312,3348234.64,5.99
+243,Julieta Guadalupe Soto,18,Salta,216587,2904016.73,3.32
+244,Rafael Gomez Ponce,41,Entre Ríos,166051,4470024.38,8.37
+245,Isabel Delfina Paez,63,Córdoba,80391,3014834.69,8.32
+246,Luciano Catalina Caceres Castro,59,Mendoza,251325,4242556.14,4.93
+247,Dante Bruno Gimenez Sosa,57,Neuquén,213796,2664324.2,2.97
+248,Bruno Santiago Benjamin Gonzalez Lopez,70,Chaco,111609,3071620.33,5.15
+249,Mateo Garcia,35,Tucumán,289937,3808995.04,2.99
+250,Sr(a). Facundo Torres,23,Mendoza,78973,4030641.82,14.51
+251,Bruno Morales,74,Entre Ríos,203448,2468149.68,2.6
+252,Jeremias Alma Molina Lopez,57,Salta,289372,4784103.18,3.44
+253,Thiago Nahuel Franco,39,Buenos Aires,129114,1998850.42,4.54
+254,Simon Ramiro Peralta Gomez,49,Santa Fe,202537,2355700.31,3.08
+255,Catalina Quiroga,40,Mendoza,111376,1713423.36,2.94
+256,Dr(a). Martin Correa,62,Mendoza,338994,3417142.17,2.72
+257,Dante Maria Paz Acosta,53,Buenos Aires,148189,1244543.37,2.86
+258,Augusto Peralta,33,Salta,194567,4079501.3,6.59
+259,León Medina Mendoza,49,Neuquén,206284,4163306.95,5.99
+260,Dr(a). Francesco Nuñez,59,Entre Ríos,77620,2655680.82,8.17
+261,Catalina Thiago Benjamin Perez Sosa,46,Buenos Aires,247220,3115200.68,2.82
+262,Agustín Rojas Diaz,62,Santa Fe,231253,955835.05,1.81
+263,Maximo Diaz,37,Chaco,130916,4379383.7,8.02
+264,Santiago Nicolas Torres,40,Salta,274481,3553328.06,3.68
+265,Lucas Priscila Rivero,65,Neuquén,139416,1623275.3,2.89
+266,Thiago Dominguez,35,Mendoza,308916,4864734.05,4.14
+267,Dr(a). Thiago Emanuel Alvarez,34,Santa Fe,237997,1459384.16,1.26
+268,Dr(a). Oriana Garcia,25,Neuquén,235977,3313385.56,3.33
+269,Giuliana Geronimo Ferreyra Moreno,66,Córdoba,247061,1535002.16,1.16
+270,Mateo Ledesma,35,Chaco,322308,2483824.88,2.11
+271,Santino Ezequiel Renata Acosta,66,Neuquén,50000,3480820.41,19.27
+272,Benjamin Arias Torres,71,Santa Fe,71725,2712770.08,11.32
+273,Dr(a). Thiago Emanuel Mendez,36,Santa Fe,156446,1567997.71,2.98
+274,Octavio Gutierrez Soria,63,Neuquén,252058,2636508.3,1.75
+275,Lucas Valentin Dominguez Acosta,26,Mendoza,225702,3301688.47,5.26
+276,Dr(a). Lola Perez,36,Córdoba,207557,3828997.12,5.17
+277,Sr(a). Maria Emilia Martinez,58,Entre Ríos,210047,2173929.68,2.51
+278,Julieta Mendez,36,Entre Ríos,207552,1427148.94,2.28
+279,Juan Pablo Olivera Ojeda,48,Entre Ríos,87991,2747429.59,9.81
+280,Sr(a). Francesca Romero,34,Entre Ríos,374780,1793291.0,1.77
+281,Delfina Bautista Benjamin Gutierrez Alvarez,25,CABA,174525,2723249.77,3.95
+282,Isabella Santino Pereyra,58,Buenos Aires,218336,4076192.85,5.46
+283,Camila Olivera Rodriguez,27,Córdoba,273178,4440929.84,3.13
+284,Lola Sebastian Coronel Gonzalez,23,Santa Fe,50000,1650984.06,11.45
+285,Tiziano Gonzalez,25,Neuquén,209900,2644247.26,2.58
+286,Juan Cruz Valentino Moreno Castro,68,Chaco,91214,4188122.56,8.25
+287,Thiago Emanuel Juliana Gomez,32,Neuquén,72176,1970056.38,8.28
+288,Juan Pablo Federico Fernandez Garcia,37,Chaco,319465,3986807.68,3.39
+289,Salvador Fernandez Benitez,45,Mendoza,174383,4009624.35,4.84
+290,Sr(a). Maximo Rodriguez,65,CABA,188214,1780424.33,1.36
+291,Santiago Nicolas Zoe Jazmin Cardozo Maidana,66,Santa Fe,155789,3826155.68,5.76
+292,Benjamin Rodriguez Alvarez,23,Córdoba,155502,1844741.92,3.62
+293,Thiago Nicolas Maria Paz Rodriguez,33,Córdoba,155789,3203016.14,5.76
+294,Sr(a). Zoe Valentina Rodriguez,44,Entre Ríos,185021,2547169.04,2.89
+295,Sr(a). Thiago Miranda,62,Chaco,179757,3184061.0,3.42
+296,Felipe Bautista Mendoza,36,Mendoza,203873,3843329.88,4.09
+297,Sr(a). Martina Gimenez,62,Entre Ríos,252594,2463006.27,3.25
+298,Catalina Isabella Peralta,34,Chaco,225227,3870202.61,5.02
+299,Thiago Benjamin Thiago Lionel Castro Mendez,60,Santa Fe,110561,1568771.64,4.09
+300,Dr(a). Benjamin Rodriguez,59,Córdoba,245473,2469079.71,2.08
+301,Sr(a). Ramiro Rodriguez,35,Córdoba,243420,3517413.21,4.65
+302,Micaela Lourdes Garcia Ortiz,37,Chaco,220904,2822261.66,3.11
+303,Sr(a). Olivia Rojas,65,Chaco,275703,1722424.6,1.76
+304,Thiago Benjamin Romero,47,Mendoza,159118,2748565.32,5.74
+305,Morena Maldonado,62,Salta,288209,2422054.08,2.3
+306,Guillermina Matilda Toledo,49,Entre Ríos,166780,2399820.82,3.18
+307,Martina Paloma Chavez,23,Chaco,282438,4427907.52,3.15
+308,Bianca Ana Paula Maldonado,38,Chaco,221090,886022.49,1.54
+309,Dr(a). Ivan Gomez,34,Buenos Aires,371762,4100863.2,3.01
+310,Juan Pablo Flores,71,Chaco,311023,4073228.4,3.1
+311,Alfonsina Thiago Benjamin Figueroa,55,Buenos Aires,319497,2678597.75,1.58
+312,Thiago Nahuel Diaz Rodriguez,35,Chaco,199679,3606611.95,2.51
+313,Juan Pablo Rodriguez Romero,20,Córdoba,85830,2456702.91,8.94
+314,Luna Ramiro Romero Rivero,35,Córdoba,221407,2061080.68,2.8
+315,Renata Isabella Fernandez,55,Salta,138357,1941043.97,3.71
+316,Juan Cruz Aguero Rodriguez,23,Entre Ríos,130270,2066482.57,2.5
+317,Sr(a). Martin Castillo,40,Salta,140443,1962486.97,5.31
+318,Milena Diaz Aguirre,72,Córdoba,303194,1566028.82,1.71
+319,Kiara Sosa,39,Salta,177138,3191904.65,3.64
+320,Gonzalo Barrios Ortiz,43,Neuquén,138120,4334869.66,6.65
+321,Sr(a). Nicolas Vera,20,Entre Ríos,251915,4407434.44,4.34
+322,Maximo Agustina Gutierrez Garcia,25,Salta,232065,2446421.27,1.75
+323,Nina Santiago Benjamin Suarez Gomez,73,Neuquén,201742,4216510.75,5.25
+324,Joaquin Gutierrez Sosa,73,Neuquén,196578,2503368.98,3.38
+325,Thiago Benjamin Perez Ruiz,47,Salta,291157,3369753.41,2.75
+326,Catalina Torres Acosta,57,Entre Ríos,232305,1345897.55,1.8
+327,Simon Mateo Gimenez,58,Entre Ríos,203386,2174151.48,2.73
+328,Lourdes Hernandez,53,Córdoba,146131,1123794.12,2.21
+329,Lautaro Julieta Aguirre,36,Entre Ríos,267490,967636.58,1.35
+330,Martina Thiago Nahuel Vega Herrera,19,Chaco,137295,1750686.61,2.58
+331,Dr(a). Catalina Gomez,69,Santa Fe,182745,1683829.14,2.37
+332,Juan Martin Juarez Aguirre,18,Neuquén,133173,2997759.57,5.33
+333,Dr(a). Mateo Paez,44,CABA,224302,2372600.08,3.82
+334,Felicitas Ortiz,25,Entre Ríos,351590,2319146.92,2.05
+335,Josefina Juarez,25,Córdoba,72965,5072854.79,17.07
+336,Lorenzo Mendoza,50,Mendoza,201297,1745914.83,2.16
+337,Luciano Nuñez Godoy,44,Entre Ríos,259338,3736250.4,3.5
+338,Felipe Juan Ignacio Coronel Castro,53,Córdoba,192597,2930770.81,3.26
+339,Sr(a). Thiago Benjamin Lopez,42,Santa Fe,284059,1302806.06,1.58
+340,Faustino Uma  Diaz,74,Córdoba,155065,1348846.83,2.77
+341,Dr(a). Juan Rojas,73,CABA,176796,3410034.68,6.35
+342,Jazmin Francesca Soria,44,Tucumán,339421,2533853.33,1.46
+343,Mateo Benjamin Romero Pereyra,68,Neuquén,199383,2337295.78,2.84
+344,Jazmín Toledo,64,Mendoza,205701,1825451.64,1.59
+345,Lucía Hernandez,71,Chaco,97006,3130321.19,8.53
+346,Valentina Franco Romero Figueroa,73,Córdoba,143443,3284038.35,7.29
+347,Francisco Cabrera,46,Neuquén,128426,1245457.97,2.57
+348,Sr(a). Juliana Gonzalez,66,Neuquén,207065,3677394.95,4.67
+349,Sr(a). Mateo Benjamin Aguirre,42,Entre Ríos,347320,2059333.71,0.9
+350,Joaquín Delfina Lopez Cabrera,62,Santa Fe,133875,1425008.4,2.69
+351,Ciro Torres Flores,54,Salta,214257,2515118.22,2.6
+352,Tiziano Benjamin Benitez Gonzalez,20,Tucumán,337553,3648101.98,3.02
+353,Bautista Sofia Farias Acuña,65,Entre Ríos,159433,1409068.98,3.46
+354,Thiago Agustin Juan Bautista Gimenez Flores,42,Córdoba,59618,2983288.43,15.51
+355,Amparo Bautista Lucero,49,Buenos Aires,345545,4321635.52,3.45
+356,Delfina Ponce,39,CABA,347843,2568926.81,1.62
+357,Giuliana Mateo Lopez Gomez,73,Entre Ríos,342364,1835582.29,1.51
+358,Dr(a). Mora Ruiz,18,Córdoba,303040,1150826.06,1.77
+359,Tomas Sanchez,44,Córdoba,324394,1385470.52,1.47
+360,Emilia Lucia Martinez Lucero,34,Tucumán,263213,4659540.21,5.33
+361,Felipe Castro,57,Salta,107990,1101323.75,3.3
+362,Uma  Ignacio Garcia Benitez,72,Neuquén,73632,3048042.06,11.61
+363,Agustin Juan Bautista Perez Rios,42,Tucumán,83110,2752217.79,8.2
+364,Gael Renata Herrera,49,Neuquén,80437,3575162.39,9.28
+365,Sr(a). Lisandro Correa,20,Chaco,302708,4571139.55,3.94
+366,Luz Milagros Blanco,36,Santa Fe,247092,1755363.39,2.23
+367,Dr(a). Catalina Martin,65,CABA,166669,2903571.87,3.99
+368,Sr(a). Juan Ignacio Franco,58,CABA,214680,2280952.45,3.6
+369,Bruno Gomez,46,Córdoba,140388,4371411.1,7.87
+370,Catalina Amparo Gonzalez,20,Tucumán,50000,4556080.97,17.21
+371,Sr(a). Lautaro Rodriguez,68,Buenos Aires,179131,2945604.74,5.2
+372,Julieta Medina Aguero,27,Santa Fe,274681,3744025.82,3.89
+373,Sr(a). Paula Rojas,51,Salta,70117,1589642.28,9.83
+374,Alma Jazmin Tomàs Aguirre,28,Córdoba,142893,1490853.46,2.2
+375,Gael Perez,23,Chaco,276579,4073956.05,3.48
+376,Valentina Francisco Blanco,33,Entre Ríos,119309,3865675.96,8.57
+377,Dr(a). Joaquin Blanco,55,Córdoba,212735,2521146.42,2.84
+378,Ezequiel Cardozo Juarez,47,Mendoza,313317,879468.28,1.14
+379,Thiago Benjamin Mateo Joaquin Medina Soto,60,Buenos Aires,272054,3197012.51,2.7
+380,Camila Rodriguez Nuñez,36,Neuquén,146891,2799585.98,3.03
+381,Bianca Gonzalez Fernandez,28,CABA,131214,1966900.91,2.94
+382,Tomas Francesca Aguero,55,Mendoza,226373,3892237.73,4.22
+383,Sr(a). Bautista Garcia,58,Salta,167624,3305489.8,5.88
+384,Maximo Delfina Acuña Diaz,37,Santa Fe,117755,1702088.75,3.85
+385,Facundo Pilar Juarez,42,Entre Ríos,261448,3202142.0,4.47
+386,Valentino Peralta,40,Chaco,248695,3310898.2,2.61
+387,Lautaro Nahuel Benjamin Lopez Morales,36,Mendoza,349183,4202107.0,2.88
+388,Valentin Mendoza Sosa,43,Mendoza,220696,2258912.32,2.7
+389,Tomas Morena Gomez,18,Chaco,291876,2697561.85,2.19
+390,Mora Duarte Godoy,21,Chaco,95876,2474215.87,8.24
+391,Martina Paloma Blanco,65,Entre Ríos,285927,2515893.11,2.23
+392,Catalina Olivia Torres,67,Santa Fe,50097,3931984.89,22.89
+393,Dr(a). Lola Perez,56,Tucumán,210054,3051639.64,3.89
+394,Dr(a). Santiago Correa,34,Córdoba,250973,2313559.56,2.53
+395,Sr(a). Lucas Avila,58,CABA,294745,2615703.08,2.6
+396,Olivia Tiziano Benjamin Benitez Perez,37,Entre Ríos,134213,1320473.69,3.33
+397,Luciano Kiara Luna Suarez,20,Chaco,171945,4064574.79,5.11
+398,Ambar Perez Juarez,36,Tucumán,231879,2937067.85,2.52
+399,Dr(a). Lisandro Campos,65,Salta,219185,4037222.6,3.74
+400,Ramiro Valentino Flores Benitez,52,Tucumán,238030,3655785.25,5.48
+401,Paulina Abril Alvarez Vera,51,Neuquén,328996,1352736.82,1.45
+402,Valentina  Santino Benjamin Gonzalez,34,Entre Ríos,122047,4183948.56,8.28
+403,Lorenzo Rodriguez Martinez,69,Mendoza,198427,2276741.83,3.22
+404,Sr(a). Olivia Lopez,25,Entre Ríos,127259,2802533.32,9.47
+405,Josefina Mora Ledesma Mendoza,22,Córdoba,201492,2945902.05,4.6
+406,Dr(a). Dante Godoy,61,Salta,142811,2353127.24,4.08
+407,Dr(a). Lautaro Nahuel Gonzalez,72,Neuquén,105919,3015412.61,8.76
+408,Sr(a). Paloma Sanchez,18,Mendoza,305672,3382624.37,2.56
+409,Clara Bautista Mansilla Romero,52,CABA,85206,2314211.45,7.4
+410,Bruno Sanchez Miranda,61,Mendoza,233518,3264325.17,4.21
+411,Valentina Thiago Cabrera,55,Salta,283470,1408704.43,1.62
+412,Isabel Gonzalez,24,Santa Fe,50000,1470093.77,8.73
+413,Francisco Mateo Agustin Perez Suarez,48,Buenos Aires,59965,4513505.38,18.23
+414,Zoe Jazmin Benjamin Ezequiel Avila,38,Chaco,69247,2769563.73,10.77
+415,Mia Josefina Sosa,32,CABA,141062,2494790.74,4.77
+416,Santino Benjamin Valentino Garcia Herrera,62,Mendoza,132805,3924700.13,9.55
+417,Lorenzo Gomez Mendoza,59,Salta,218111,4517529.96,4.64
+418,Dr(a). Dante Gomez,20,Mendoza,216309,3239438.78,3.12
+419,Antonella Quiroga Diaz,49,CABA,336937,4073554.87,2.72
+420,Morena Jazmin Santino Gabriel Diaz Chavez,26,Salta,295846,1440470.4,1.19
+421,Juana Benjamin Soto Rios,47,Tucumán,136809,1315201.07,2.0
+422,Lautaro Chavez,52,Salta,84220,3597505.2,10.22
+423,Alma Jazmin Santino Gabriel Aguirre,55,Córdoba,287739,2381153.6,2.0
+424,Thiago Valentin Joaquin Acuña,71,Entre Ríos,123052,3012652.5,4.45
+425,Benicio Alma Gutierrez Ramos,57,Salta,260115,2257799.77,1.32
+426,Lucas Benjamin Garcia Romero,62,Tucumán,175784,2784432.48,4.13
+427,Emanuel Maldonado,31,Entre Ríos,144794,964496.01,1.83
+428,Francesca Mateo Agustin Romero,41,CABA,219995,3897940.43,4.03
+429,Emiliano Lucía Cordoba Medina,61,Tucumán,50000,3768918.4,22.05
+430,Catalina Sofia Franco,40,Buenos Aires,139104,3180376.57,5.03
+431,Sr(a). Valentina  Vazquez,43,Mendoza,215079,1502827.71,2.01
+432,Alma Valentina Valentino Gonzalez Muñoz,72,Entre Ríos,237952,3151498.63,2.43
+433,Francesca Camila Diaz,23,Santa Fe,132131,3109913.71,4.73
+434,Agustina Olivia Gonzalez,19,Buenos Aires,116147,1947756.85,2.71
+435,Sr(a). Santino Suarez,68,Tucumán,201677,1894793.22,2.3
+436,Emilia Gomez Flores,54,Santa Fe,241472,1123087.56,1.85
+437,Franco Ledesma Godoy,22,Neuquén,214841,2761204.56,2.55
+438,Ivan Diaz Maldonado,73,Santa Fe,253794,2595488.47,2.69
+439,Isabella Mendez,39,Córdoba,225895,2688069.45,2.72
+440,Micaela Catalina Alvarez Figueroa,35,Córdoba,95453,4433372.52,12.01
+441,Lautaro Juan Lopez Romero,26,Neuquén,199796,1054298.18,1.8
+442,Rosario Castillo,60,Buenos Aires,249543,4078545.09,3.6
+443,Ciro Ciro Lopez Vera,26,Buenos Aires,111328,3227391.74,7.65
+444,Joaquin Francisco Molina,55,Tucumán,309628,3278061.29,3.61
+445,Isabella Medina Miranda,19,Córdoba,195984,3884475.3,5.38
+446,Luna Mansilla Gonzalez,44,Neuquén,241459,4203521.52,4.26
+447,Tiziana Micaela Gomez,25,CABA,62741,1110414.44,5.12
+448,Juan Cruz Lopez,50,Chaco,220640,3754561.47,3.87
+449,Sofia Silva,24,Entre Ríos,50000,1005108.9,5.4
+450,Delfina Fausto Fernandez,20,Neuquén,195347,2754678.52,3.64
+451,Clara Gonzalez,37,Entre Ríos,187499,3841570.53,3.85
+452,Dr(a). Octavio Ponce,48,Salta,184227,1296252.8,2.11
+453,Tiziano Velazquez,45,CABA,50000,2293859.87,13.09
+454,Morena Diaz,22,CABA,210720,2533786.39,3.01
+455,Juan Manuel Benjamin Ramirez Peralta,38,Chaco,224775,3829104.34,6.08
+456,Lola Guadalupe Rodriguez Fernandez,57,Chaco,233359,1723639.12,1.35
+457,Ramiro Lucas Benjamin Rodriguez,53,Tucumán,120916,4325503.35,8.77
+458,Julieta Gonzalez,36,Entre Ríos,273424,1707520.11,0.93
+459,Luz Milagros Catalina Bravo,50,Chaco,71431,3694222.59,12.12
+460,Sr(a). Thiago Valentin Herrera,25,Neuquén,260303,2051280.13,2.77
+461,Santino Suarez,64,Santa Fe,50000,1008591.79,3.97
+462,Dante Tiziano Valentin Gutierrez,44,Tucumán,271222,4176301.99,4.05
+463,Benjamin Ramirez,70,Entre Ríos,95933,2580316.14,8.99
+464,Dr(a). Dylan Blanco,38,Salta,276885,2768086.1,3.01
+465,Felipe Josefina Godoy Perez,38,Mendoza,167585,1415898.13,3.05
+466,Matias Castro,48,CABA,232701,4516846.25,3.76
+467,Sr(a). Bruno Sosa,23,CABA,230043,3808179.16,4.35
+468,Jeremias Felicitas Gomez Rodriguez,65,Tucumán,219932,944728.79,1.98
+469,Malena Alvarez,69,Córdoba,100285,1036670.99,2.38
+470,Lautaro Gabriel Francisco Vega Toledo,53,Neuquén,163127,1085890.89,2.24
+471,Genaro Mateo Benjamin Gomez Quiroga,39,CABA,62177,2074727.22,12.89
+472,Martín Victoria Cardozo Ferreyra,66,Salta,286486,3445275.58,2.93
+473,Malena Bautista Maidana Diaz,73,Buenos Aires,306230,3195286.1,2.9
+474,Dr(a). Martina Avila,40,CABA,178626,2780602.74,5.01
+475,Maximiliano Morena Jazmin Fernandez Castro,54,Neuquén,227140,3729425.75,5.39
+476,Thiago Francisco Gimenez Herrera,32,CABA,313798,3443863.6,2.97
+477,Dr(a). Bautista Barrios,40,Neuquén,108653,3390931.93,6.58
+478,Thiago Ezequiel Perez Valdez,54,Santa Fe,300312,3330126.69,2.89
+479,Delfina Santino Valdez Gutierrez,69,Salta,322015,2439744.82,1.73
+480,Dylan Lopez,70,Chaco,50000,4824476.73,20.55
+481,Matilda Clara Pereyra,57,Neuquén,381546,1806331.43,1.66
+482,Francesca Ruiz,71,Mendoza,230222,2325228.53,2.47
+483,Santiago Guzman Torres,19,Córdoba,180239,2771231.74,3.91
+484,León Catalina Gomez,39,Tucumán,334186,2301151.47,2.36
+485,Clara Bautista Rodriguez,18,Córdoba,270724,3952646.9,4.06
+486,Violeta Thiago Ezequiel Sosa,43,CABA,124556,4281586.93,10.48
+487,Nahiara Delfina Escobar Aguero,27,Buenos Aires,282473,2156144.91,2.02
+488,Maria Belen Antonio Garcia Dominguez,42,Salta,253625,1436376.39,1.32
+489,Bautista Perez Fernandez,47,Tucumán,237991,2472552.73,2.37
+490,Gael Rafael Mendoza Aguirre,38,Chaco,257764,2354990.78,1.41
+491,Ciro Benjamin Rios Gomez,56,CABA,234576,2362290.35,1.95
+492,Juan Martin Gonzalez Lucero,66,Chaco,168871,1741011.57,3.85
+493,Juan Ignacio Ayala Pereyra,21,CABA,183690,2227967.02,4.67
+494,Juana Gutierrez Gonzalez,49,Chaco,316687,3035944.46,2.67
+495,Salvador Benitez Soto,46,Salta,180540,4826341.25,7.05
+496,Agustina Emilia Vega Gonzalez,25,Tucumán,332746,1038723.9,1.0
+497,Thiago Valentin Julia Ponce,45,CABA,175007,3161696.57,4.09
+498,Malena Ivan Sanchez,49,Neuquén,317897,2283261.23,1.69
+499,Thiago Ian Benjamin Gimenez,60,Mendoza,276992,1266424.98,1.43
+500,Ema Moreno,56,Buenos Aires,222587,4359898.54,4.0
+501,Luca Rojas,18,Santa Fe,182503,2574961.09,4.06
+502,Agustina Ian Ezequiel Martinez Ortiz,26,Mendoza,252260,1620975.42,1.75
+503,Ian Lara Herrera Miranda,36,Tucumán,268411,3459688.88,3.76
+504,Dr(a). Nahiara Escobar,45,Córdoba,264230,4430190.43,4.23
+505,Olivia Santino Benjamin Rojas Ramirez,26,Salta,143352,3258188.58,5.86
+506,Luca Milena Martinez,53,Tucumán,188238,1645600.64,1.96
+507,Isabella Mateo Bustos Martin,22,Salta,215193,3614889.21,4.13
+508,Renata Gonzalez Fernandez,19,Entre Ríos,182044,1995426.28,3.14
+509,Joaquina Bautista Martinez Coronel,22,Tucumán,107185,1947548.62,2.43
+510,Manuel Rodriguez,63,Salta,152149,4179890.72,7.4
+511,Sr(a). Juan Cruz Suarez,36,CABA,50000,2606540.89,13.09
+512,Ian Benjamin Diaz Gonzalez,28,Chaco,317004,2974631.01,2.5
+513,Dr(a). Luciano Ponce,47,Tucumán,331277,3506505.03,3.65
+514,Francesca Delfina Figueroa,33,Salta,281163,4025258.7,2.82
+515,Bianca Rodriguez Ruiz,55,Salta,120605,3025373.15,6.38
+516,Kiara Mendez,37,Tucumán,187955,2428288.31,3.6
+517,Joaquin Juan Ignacio Sanchez,32,Tucumán,205802,3614703.85,4.78
+518,Lorenzo Garcia Ferreyra,58,CABA,168642,3995437.01,5.51
+519,Dr(a). Santino Ledesma,51,Neuquén,247788,3416776.99,5.73
+520,Catalina Alvarez Lopez,40,Córdoba,329921,1631783.5,1.0
+521,Dr(a). Salvador Sanchez,33,CABA,232124,1244462.73,1.49
+522,Mateo Benjamin Castro,56,Córdoba,242199,1551899.87,1.57
+523,Sr(a). Sofia Leiva,66,CABA,260871,3694880.97,4.12
+524,Sofía Martinez Vargas,49,Entre Ríos,323556,1753296.47,1.78
+525,Tomas Facundo Flores,66,Chaco,205416,613549.9,1.52
+526,Dr(a). Juan Ignacio Diaz,74,Chaco,112836,2769967.19,6.3
+527,Victoria Mateo Agustin Molina Correa,59,Chaco,105508,3346653.64,7.67
+528,Guillermina Isabella Vera,38,Córdoba,390728,3173637.55,1.88
+529,Guillermina Martinez Leiva,46,CABA,89124,2059381.44,6.86
+530,Lucio Tomas Villalba,68,Mendoza,221931,4437076.77,4.7
+531,Thiago Nicolas Joaquín Gonzalez,55,Buenos Aires,181228,1795925.24,2.51
+532,Sr(a). Salvador Ramirez,47,Entre Ríos,225186,3274709.64,4.23
+533,Francisco Suarez Gomez,20,Buenos Aires,155330,3459565.38,5.83
+534,Juan Ignacio Ledesma,59,CABA,248331,1857359.01,1.79
+535,Guadalupe Gomez Villalba,57,Chaco,110916,2393014.77,6.34
+536,Sr(a). Juan Sebastian Martinez,53,Buenos Aires,196041,2587083.77,5.54
+537,Julieta Bautista Benjamin Gonzalez Rodriguez,46,Chaco,159243,2712607.8,5.08
+538,Dr(a). Micaela Sanchez,48,Neuquén,142519,2494901.16,4.7
+539,Bautista Juan Martin Farias,27,Buenos Aires,60977,1740813.5,8.93
+540,León Sanchez Sanchez,71,Tucumán,244667,1434217.07,2.61
+541,Benjamin Lopez Duarte,63,CABA,150780,2400060.58,4.17
+542,Juana Gomez Fernandez,33,Entre Ríos,198593,2441360.3,3.02
+543,Thiago Nahuel Jazmin Castro,46,Neuquén,153441,1922804.42,3.84
+544,Juan Bautista Charo Gonzalez,41,Mendoza,193300,4140048.41,5.93
+545,Thiago Nicolas Martina Ramirez Alvarez,42,Salta,218463,993213.25,1.32
+546,Dr(a). Emma Rodriguez,21,Tucumán,80837,3861137.51,6.56
+547,Dr(a). Vicente Romero,22,Tucumán,299872,1812879.96,1.53
+548,Camila Silva Morales,36,Mendoza,267421,3544143.82,3.21
+549,Lucía Suarez,64,Chaco,250390,2865640.0,2.44
+550,Juan Francisco Valdez Alvarez,55,Córdoba,148509,1466662.77,3.71
+551,Martina Cruz,40,Mendoza,321337,4469804.51,3.51
+552,Valentino Herrera Gutierrez,43,Córdoba,175029,3494472.89,7.38
+553,Benjamin Gonzalez Martinez,56,CABA,171556,1913975.79,2.7
+554,Santiago Tobias Soto Maldonado,68,Tucumán,272398,2305527.82,2.35
+555,Dr(a). Lara Fernandez,70,Córdoba,127668,1898825.9,3.84
+556,Thiago Benjamin Emilia Nuñez,65,Neuquén,68201,2844270.06,11.78
+557,Sr(a). Benjamin Castillo,23,Salta,184676,1348626.91,2.99
+558,Maite Federico Martinez,37,Córdoba,199182,3179717.91,5.24
+559,Dr(a). Bruno Martinez,31,Tucumán,287387,1599251.35,1.85
+560,Dr(a). Salvador Moyano,32,Córdoba,170184,2805563.97,4.08
+561,Justina Acosta Diaz,27,CABA,160008,2355400.84,3.97
+562,Sr(a). Morena Gonzalez,50,Neuquén,335140,2451857.87,1.69
+563,Helena Garcia Lopez,71,Neuquén,270469,3082971.43,2.46
+564,Mateo Sosa Bustos,67,Chaco,217034,1801490.42,1.66
+565,Sol Lopez Gomez,26,Chaco,165978,1925341.71,2.72
+566,Dr(a). Juana Rodriguez,71,Chaco,233294,3341081.35,3.25
+567,Gabriel Ferreyra,69,Córdoba,195694,2615075.21,3.18
+568,Fausto Tomas Benjamin Carrizo Velazquez,41,Santa Fe,176478,3543887.05,4.93
+569,Augusto Garcia,46,Chaco,171061,4132478.23,4.77
+570,Franco Candelaria Maldonado Suarez,46,Santa Fe,329740,3858937.76,2.58
+571,Paulina Rodriguez,52,Santa Fe,146897,2531707.69,7.4
+572,Benicio Martina Acosta,48,Santa Fe,335444,2491031.52,1.96
+573,Faustino Duarte,41,Chaco,288609,3492040.48,3.3
+574,Thiago Benjamin Soria Martinez,36,Salta,191309,2691138.61,2.39
+575,Agustin Facundo Moreno,50,Neuquén,158506,1022832.18,2.37
+576,Ian Lourdes Gonzalez,30,Chaco,223268,2980407.58,5.2
+577,Maria Luz Rivero Duarte,26,Mendoza,286691,4223594.65,4.02
+578,Sol Ian Benjamin Herrera,41,Neuquén,229486,1199085.51,1.24
+579,Sofía Rodriguez Gonzalez,24,Neuquén,238909,2494633.88,2.02
+580,Dr(a). Francesca Dominguez,66,Córdoba,147263,1979048.16,3.24
+581,Santiago Correa Gonzalez,35,Entre Ríos,237408,2622992.45,3.31
+582,Isabella Gomez Ramirez,45,CABA,174682,4387324.81,6.26
+583,Salvador Garcia Ayala,32,Entre Ríos,338283,2790300.53,2.15
+584,Catalina Gonzalez Fernandez,44,Buenos Aires,77514,3579846.5,13.75
+585,Bianca Joaquin Gomez,43,Neuquén,144478,4250996.92,7.71
+586,Sr(a). Mia Jazmin Caceres,23,Tucumán,256251,1052253.73,1.47
+587,Lautaro Benjamin Benicio Carrizo Molina,32,Buenos Aires,184713,2442417.82,3.11
+588,Juana Catalina Godoy Sosa,63,Tucumán,233195,4617618.37,4.12
+589,Dr(a). Luciano Silva,68,Córdoba,242693,2670855.5,3.09
+590,Juana Lourdes Acosta Romero,71,Entre Ríos,250050,2449187.85,2.13
+591,Francesca Juliana Sanchez,62,Córdoba,204999,2457622.99,3.06
+592,Pedro Cordoba Aguero,57,Buenos Aires,110111,2786949.07,6.08
+593,Isabella Vicente Gomez,75,CABA,255363,2390163.93,3.1
+594,Oriana Sofía Perez,27,Neuquén,206642,4344077.95,4.96
+595,Bautista Gonzalez Acosta,64,Chaco,161748,3820613.15,7.75
+596,Pedro Acosta Perez,36,Santa Fe,193257,2570272.36,3.53
+597,Jazmin Rodriguez,37,CABA,279750,4669847.31,3.7
+598,Lola Pilar Alvarez,68,Chaco,224671,3551856.76,4.25
+599,Sebastian Gutierrez Moreno,47,CABA,333190,1852415.34,1.49
+600,Julieta Camila Muñoz,56,Neuquén,311399,2641906.62,1.81
+601,Malena Villalba,19,Neuquén,86514,2116813.39,5.24
+602,Emilia Martinez Dominguez,36,Salta,142133,4624747.08,8.49
+603,Milena Paula Leiva,18,Chaco,137372,2091948.9,5.64
+604,Ambar Maite Vargas,29,CABA,283068,2398419.32,2.75
+605,Sol Lautaro Rios,51,Tucumán,289055,3679817.57,3.54
+606,Mora Vazquez Pereyra,50,Neuquén,240331,2591222.73,2.58
+607,Benjamin Santiago Gomez Lopez,53,Buenos Aires,130363,2790934.05,4.5
+608,Sr(a). Olivia Peralta,58,Salta,257275,3577031.21,3.64
+609,Alma Guadalupe Franco,41,Mendoza,198732,1295027.31,2.57
+610,Luna Nicolas Fernandez,22,Tucumán,124814,2448423.27,2.46
+611,Dr(a). Vicente Pereyra,33,CABA,217565,4646373.29,6.48
+612,Sr(a). Alma Valentina Medina,39,Córdoba,70774,2319913.2,7.84
+613,Emma Guadalupe Ramos Diaz,20,Tucumán,59470,1519575.21,8.44
+614,Julia Valdez,29,Entre Ríos,158200,1762805.62,3.67
+615,Santino Ezequiel Juan Manuel Alvarez Bustos,62,Entre Ríos,101124,2825385.39,7.29
+616,Alma Valentina Figueroa Caceres,22,Entre Ríos,92379,2468381.22,5.11
+617,Dr(a). Juana Ponce,20,Mendoza,242402,1461072.29,1.75
+618,Thiago Hernandez,74,Buenos Aires,335078,3148990.59,3.14
+619,Francisco Rodriguez,38,Mendoza,50000,3584725.62,15.14
+620,Joaquin Milena Paz Ledesma,52,Entre Ríos,176784,4751090.45,6.23
+621,Olivia Nuñez,34,Buenos Aires,201077,1515220.58,1.72
+622,Luz Milagros Acuña Cardozo,40,Buenos Aires,147909,2145863.06,4.34
+623,Santino Gabriel Juana Gomez Fernandez,73,Tucumán,179158,4387597.61,5.93
+624,Franco Martinez Romero,45,Salta,341861,2352274.65,1.9
+625,Juan Gabriel Sosa,65,Entre Ríos,262391,5557576.05,4.16
+626,Sr(a). Guadalupe Castro,29,Entre Ríos,151377,1482341.87,1.54
+627,Felipe Thiago Benjamin Lopez Ponce,62,Entre Ríos,103909,4197838.6,10.52
+628,Guillermina Torres Navarro,35,CABA,305807,3210904.57,2.54
+629,Morena Jazmin Villalba,64,Salta,295571,4017672.6,3.11
+630,Agustina Thiago Benitez,70,Córdoba,251705,4052151.8,4.64
+631,Camila Lautaro Gomez Barrios,52,Mendoza,185859,2242448.86,3.78
+632,Pedro Sosa Martinez,60,Mendoza,229467,3207459.67,4.52
+633,Bianca Arias,37,Entre Ríos,132617,3844929.69,9.05
+634,Alejo Lopez,62,Entre Ríos,149327,999638.01,3.62
+635,Dr(a). Santiago Campos,40,Entre Ríos,355923,3962465.46,3.14
+636,Thiago Gabriel Josefina Vargas,40,Chaco,242503,2173797.78,2.55
+637,Bautista Emma Diaz Martinez,45,Mendoza,109341,4657363.12,9.24
+638,Dr(a). Sofia Flores,21,CABA,91153,4098918.78,13.09
+639,Thiago Ezequiel Valentina Jazmin Diaz,60,Salta,106070,3785714.89,11.59
+640,Mora Santino Moreno,61,Córdoba,308850,3856661.93,3.5
+641,Sr(a). Dante Duarte,19,Córdoba,269982,3601443.67,3.99
+642,Sofia Francisco Dominguez,46,Buenos Aires,101964,1144938.95,3.1
+643,Antonia Diaz Romero,26,CABA,210120,2894440.37,3.81
+644,Thiago Benjamin Pereyra,41,Salta,314715,1332423.39,1.14
+645,Juana Ruiz,54,Buenos Aires,104742,1238269.43,4.58
+646,Dr(a). Maria Belen Suarez,41,Tucumán,126019,1864425.59,3.69
+647,Paula Guzman Rodriguez,46,CABA,112174,2170397.64,7.53
+648,Dylan Rodriguez,43,Tucumán,155997,3359920.18,7.25
+649,Benjamin Paula Ramos Rivero,59,Mendoza,200096,2869019.96,2.85
+650,Thiago Nicolas Ojeda Silva,65,Córdoba,239260,4921840.65,3.76
+651,Sr(a). Luz Milagros Farias,49,Neuquén,122085,2477277.9,3.59
+652,Mora Franco,34,Mendoza,266981,3718806.04,3.89
+653,Lucia Camilo Olivera Suarez,63,Entre Ríos,224300,2430418.72,3.37
+654,Santino Agustin Acosta Silva,62,Entre Ríos,307349,1868084.0,1.43
+655,Sara Bravo,30,CABA,220645,2882167.48,3.21
+656,Emiliano Velazquez,29,Entre Ríos,223634,2461488.8,2.08
+657,Maximo Juan Martin Lopez,23,Tucumán,137907,2935146.42,4.68
+658,Thiago Valentin Perez,53,Neuquén,90597,2116368.73,3.34
+659,Sr(a). Bautista Gomez,36,Mendoza,275046,2705140.56,2.6
+660,Sr(a). Catalina Romero,62,Córdoba,98546,3325392.08,10.6
+661,Benicio Ojeda,68,Tucumán,159366,3609865.22,6.1
+662,Isabella Juan Bautista Benitez,30,Córdoba,197762,4265901.33,5.47
+663,Thiago Maria Guadalupe Carrizo,33,Entre Ríos,300282,1901008.84,1.83
+664,Juan Pablo Morales Gonzalez,41,Entre Ríos,216714,3013246.35,3.52
+665,Agustin Juan Sebastian Quiroga Lopez,69,Neuquén,313901,1681042.0,1.81
+666,Abril Isabella Medina,22,Mendoza,320943,3860193.2,2.63
+667,Juan Bautista Dante Martinez Sosa,43,Entre Ríos,64794,920878.75,5.05
+668,Olivia Felicitas Arias,70,Chaco,177979,1924661.79,2.77
+669,Rafael Fernandez,22,Córdoba,312996,4444978.93,2.95
+670,Mateo Ezequiel Lautaro Luna Mendoza,46,Entre Ríos,180191,1180331.08,2.06
+671,Sr(a). Luciano Castro,61,Neuquén,108185,3598721.4,8.82
+672,Valentina Catalina Luna,67,Neuquén,335991,4103407.27,3.19
+673,Milagros Máximo Miranda Silva,58,Chaco,286351,3466238.8,3.52
+674,Lautaro Nicolas Suarez,45,Neuquén,389540,3918178.12,2.56
+675,Paloma Soto,73,Buenos Aires,247308,2254545.36,1.7
+676,Juana Gonzalez Cardozo,37,Córdoba,115701,1398011.31,3.38
+677,Benjamin Ezequiel Sanchez,28,Tucumán,252446,2245016.94,1.92
+678,Olivia Santino Gomez Fernandez,51,Mendoza,177202,2587234.84,3.52
+679,Alma Valentina Gonzalez,72,CABA,199568,1527960.58,3.08
+680,Dr(a). Morena Sosa,53,Mendoza,313589,4453317.42,3.76
+681,Sr(a). Agustín Gonzalez,26,Mendoza,173337,4298524.93,4.72
+682,Nina Olivia Castro,59,Córdoba,176663,3150075.18,3.95
+683,Sr(a). Benicio Mansilla,55,Chaco,266427,2762407.74,2.83
+684,Antonella Mateo Benitez Aguero,64,Chaco,296688,2254774.97,1.52
+685,Maximo Gonzalez Ramirez,39,Chaco,354419,1771730.11,0.67
+686,Dr(a). Gael Barrios,23,Buenos Aires,240885,919838.64,1.49
+687,Tiziano Valentin Julian Roldan Godoy,59,Chaco,194938,3236457.07,3.13
+688,Lola Benitez,54,Salta,254815,4641160.04,3.99
+689,Tomàs Joaquina Pereyra Lucero,57,Buenos Aires,87631,3977911.23,9.5
+690,Martina Gimenez Martinez,36,Mendoza,201385,4030465.61,6.06
+691,Valentin Gomez Nuñez,48,Santa Fe,240965,3094860.2,4.06
+692,Sr(a). Isabella Lopez,37,Entre Ríos,85511,2030691.76,6.83
+693,Sr(a). Constantino Alvarez,22,Buenos Aires,245274,1915040.82,0.88
+694,Juan Cruz Antonella Gonzalez,47,Santa Fe,269473,1861160.18,2.16
+695,Dr(a). Juana Romero,39,Chaco,298542,1342222.33,1.0
+696,Milo Alvarez Silva,38,Tucumán,324869,3959125.58,3.9
+697,Dr(a). Sofia Sosa,43,Córdoba,206444,2792636.46,2.31
+698,Santiago Gomez Lopez,24,Tucumán,103979,3193714.72,5.98
+699,Thiago Joaquín Gonzalez,33,Entre Ríos,262773,1209713.72,1.35
+700,Dr(a). Bautista Benjamin Torres,27,CABA,260848,3208432.52,3.38
+701,Thiago Benjamin Acosta Castro,21,Mendoza,350532,2725919.81,2.39
+702,Dr(a). Lisandro Correa,44,Santa Fe,146216,1286777.09,2.21
+703,Milagros Milena Ojeda Ponce,73,Córdoba,272387,3534572.22,2.89
+704,Angelina Fausto Romero Rodriguez,64,Tucumán,50000,3725077.97,22.33
+705,Tomas Pereyra,30,Córdoba,103803,3952926.39,9.13
+706,Mia Morena Escobar,49,Mendoza,201048,4968229.43,6.14
+707,Federico Paulina Fernandez,49,Buenos Aires,267508,3870690.6,2.77
+708,Valentino Roldan Leiva,47,Santa Fe,242871,4220066.49,5.44
+709,Francisco Martinez,31,Chaco,184479,3574156.97,4.11
+710,Sr(a). Joaquín Diaz,49,Chaco,220565,3119882.08,4.03
+711,Rafael Rios Ponce,74,Entre Ríos,197717,1284336.5,2.23
+712,Camilo Renata Flores,24,Salta,209994,3959993.0,3.25
+713,Lara Cabrera Hernandez,26,Mendoza,180855,3636196.77,5.27
+714,Felipe Mateo Mendoza Diaz,41,Buenos Aires,65434,1520939.83,3.36
+715,Alma Mia Guadalupe Rodriguez,43,Buenos Aires,152409,4473710.54,5.65
+716,Bautista Sanchez,53,Mendoza,177503,1397369.47,1.71
+717,Ramiro Fernandez Gonzalez,22,Salta,64019,3401991.45,15.12
+718,Lucas Carrizo,35,Chaco,196363,2798064.0,3.26
+719,Sr(a). Bautista Leiva,61,Chaco,359581,2278341.27,2.36
+720,Luca Alma Carrizo,43,Tucumán,347628,2408576.85,1.01
+721,Olivia Santino Suarez Ferreyra,68,Tucumán,128661,2629594.97,4.94
+722,Sr(a). Mateo Rodriguez,27,Santa Fe,172873,2311765.85,2.91
+723,Lucio Maldonado,56,Neuquén,181330,3127400.21,5.08
+724,Kiara Dante Villalba,20,Córdoba,213317,4693949.29,6.42
+725,Kiara Valentina  Perez Diaz,63,Tucumán,232209,3371568.65,3.82
+726,Isabella Franco Ramirez Gutierrez,27,Chaco,108679,3768030.62,10.08
+727,Dr(a). Mateo Quiroga,75,Neuquén,318234,2734534.03,1.86
+728,Julieta Alvarez Garcia,38,Córdoba,342520,2361612.41,1.54
+729,Juan Cruz Velazquez Moreno,43,Chaco,195476,2850746.45,3.61
+730,Luciano Ledesma,39,Neuquén,132687,3697882.07,7.48
+731,Nahuel Catalina Diaz,71,Neuquén,76930,2643655.29,8.76
+732,Dr(a). Abril Sanchez,37,Entre Ríos,174643,1208986.87,2.57
+733,Sr(a). Francisco Morales,70,Buenos Aires,118932,1888315.91,3.47
+734,Benjamin Jazmin Dominguez Acuña,44,Chaco,288133,2702305.54,2.3
+735,Valentino Juan David Nuñez,37,Buenos Aires,148445,1037584.49,2.78
+736,Bautista Arias Martinez,59,Chaco,164052,2625710.02,5.96
+737,Milena Pedro Coronel,54,Santa Fe,181075,2690490.81,3.29
+738,Thiago Benjamin Benicio Vega,28,Neuquén,95819,2829217.01,9.39
+739,Federico Martin Gimenez Garcia,58,Chaco,212049,4192992.4,5.54
+740,Sofia Agustin Peralta Rodriguez,70,Santa Fe,122685,2661751.6,6.82
+741,Sr(a). Jeremias Sanchez,20,Chaco,236576,2389118.2,2.03
+742,Sr(a). Enzo Ayala,19,Entre Ríos,187658,1833451.05,1.87
+743,Martina Herrera Perez,38,Salta,271123,1182651.53,1.7
+744,Juana Valentina Jazmin Navarro Acosta,44,Neuquén,299767,4529590.65,4.31
+745,Joaquin Julieta Ortiz Lucero,67,Chaco,342626,2379006.36,2.42
+746,Joaquin Agustina Gomez,65,Buenos Aires,122198,3965770.81,8.84
+747,Dr(a). Catalina Gonzalez,63,Córdoba,98069,3350912.83,6.71
+748,Manuel Valentina  Gonzalez,60,Entre Ríos,187979,2454687.8,4.76
+749,Maria Victoria Diaz,51,Salta,180761,3407537.63,4.57
+750,Valentino Julian Guzman,52,Tucumán,245432,3750453.12,3.26
+751,Geronimo Diaz Alvarez,52,Tucumán,127740,3393269.64,8.84
+752,Guadalupe Soto,61,Mendoza,56249,2050036.4,8.41
+753,Ignacio Maria Emilia Ruiz,57,Entre Ríos,221360,1928736.64,2.43
+754,Ian Antonella Gonzalez,53,Mendoza,256275,1596014.58,1.14
+755,Bruno Gomez Aguirre,32,Mendoza,216579,3430290.29,3.6
+756,Bastian Ignacio Gonzalez Godoy,62,Entre Ríos,76118,3215881.67,10.14
+757,Antonella Cabrera Diaz,38,Entre Ríos,91591,3197766.26,6.17
+758,Mateo Benjamin Castro,68,Mendoza,351596,3743096.31,2.37
+759,Morena Lautaro Gonzalez Vazquez,36,CABA,110341,1507200.41,4.33
+760,Jazmin Ramirez Cardozo,75,Salta,155392,2272444.79,3.46
+761,Sofia Quiroga Gimenez,70,Tucumán,338727,2995358.54,2.67
+762,Paulina Lola Caceres Garcia,36,Buenos Aires,159326,1164709.17,2.43
+763,Thiago Lionel Pereyra Lopez,36,CABA,150789,2511783.3,4.89
+764,Sr(a). Geronimo Gutierrez,34,Entre Ríos,271094,4431818.7,4.49
+765,Milo Dylan Benjamin Medina,31,Santa Fe,229932,3871015.03,3.97
+766,Mia Diaz,53,Mendoza,143855,1846382.05,4.28
+767,Dr(a). Violeta Moreno,26,CABA,120513,4383612.5,7.85
+768,Sr(a). Lorenzo Nuñez,33,Buenos Aires,129320,3938306.64,10.29
+769,Emilia Thiago Daniel Benitez Paez,60,Neuquén,208869,3977152.89,4.83
+770,Sara Tiziana Rodriguez Mansilla,24,Salta,257568,1874381.52,1.46
+771,Julieta Mia Vera Ferreyra,39,Entre Ríos,310811,3633717.6,2.65
+772,Isabella Julieta Medina,18,Neuquén,281090,4386145.68,3.54
+773,Lautaro Ezequiel Sanchez Bustos,28,Salta,105486,3398056.95,5.11
+774,Franco Alvarez Gonzalez,48,Entre Ríos,64812,1843454.67,9.19
+775,Juliana Mateo Fernandez,59,Santa Fe,202445,2058098.69,2.76
+776,Juana Santino Rodriguez Sosa,36,Buenos Aires,134210,4752376.39,7.61
+777,Victoria Olivia Ledesma Gimenez,67,CABA,166498,2364514.51,3.62
+778,Maria Emilia Flores Silva,65,Buenos Aires,152460,4143684.7,5.99
+779,Sr(a). Guadalupe Suarez,29,Salta,236740,2400841.01,2.78
+780,Mateo Benjamin Rodriguez Villalba,20,Salta,166462,1592852.77,3.03
+781,Juan Cruz Molina,68,Entre Ríos,251820,1676813.92,1.22
+782,Juliana Catalina Benitez,73,Mendoza,322509,3882777.74,3.68
+783,Valentina Micaela Cardozo Maidana,74,Buenos Aires,303469,4993293.45,3.94
+784,Sr(a). Giuliana Vazquez,24,Tucumán,206032,4345358.75,6.16
+785,Emilia Santiago Suarez Pereyra,36,Entre Ríos,299924,4635542.09,3.93
+786,Thiago Joaquin Guzman Ferreyra,49,Córdoba,193145,1822412.4,2.33
+787,Juana Lucero Ramirez,72,Neuquén,148692,3063523.73,5.0
+788,Maria Guadalupe Victoria Cardozo,25,Tucumán,210450,2322444.8,2.26
+789,Sr(a). Jazmin Diaz,28,Entre Ríos,124012,3711601.81,9.21
+790,Julieta Ledesma Cabrera,18,Tucumán,97746,2130855.68,5.63
+791,Candela Franco,68,Mendoza,77403,2276338.45,5.97
+792,Santino Lautaro Nahuel Perez Fernandez,29,Chaco,144385,2737761.18,5.7
+793,Guadalupe Caceres Gutierrez,72,Salta,244779,4896171.52,4.78
+794,Rafael Muñoz,23,Salta,114768,3705998.8,8.76
+795,Tobias Mia Aguero Aguero,60,CABA,217546,3472925.44,4.19
+796,Juan Martin Blanco,38,Santa Fe,240395,1882767.42,2.1
+797,Lautaro Ledesma Gonzalez,18,Mendoza,135226,2625647.98,5.62
+798,Fausto Camilo Garcia,35,Tucumán,258145,2124011.67,1.84
+799,Thiago Agustin Torres Peralta,37,Chaco,197943,1888824.76,3.34
+800,Lola Delfina Muñoz,59,Tucumán,188042,5043495.19,6.78
+801,Maria Victoria Benjamin Ezequiel Ruiz Diaz,62,Santa Fe,237112,3582715.07,4.55
+802,Santino Flores,37,Córdoba,215270,2550484.17,2.48
+803,Candelaria Thiago Nahuel Romero,43,Neuquén,348179,2603928.78,2.02
+804,Catalina Luna Aguero,67,Mendoza,122264,2351149.65,4.57
+805,Maximo Sosa,62,CABA,77627,1778857.05,4.79
+806,Sr(a). Agustín Morales,41,Chaco,54491,2816061.87,16.82
+807,Angelina Santiago Rodriguez Paez,32,Santa Fe,287990,4672481.52,4.04
+808,Valentina  Alfonsina Cardozo Ayala,47,Chaco,175846,1726834.06,2.72
+809,Sr(a). Thiago Nicolas Ruiz,41,Salta,147447,4436153.26,7.41
+810,Alma Valentina Escobar Gonzalez,66,Neuquén,50000,2142234.36,15.86
+811,Benjamin Ramirez Vazquez,69,Santa Fe,208995,2043496.18,2.33
+812,Valentina Manuel Escobar Lucero,56,CABA,79511,2101430.57,5.26
+813,Dr(a). Thiago Lionel Figueroa,51,Entre Ríos,125368,2958940.34,3.9
+814,Salvador Santino Ruiz,54,CABA,186649,3534077.17,5.06
+815,Nicolas Lopez,21,Neuquén,244064,4348485.91,4.44
+816,Dr(a). Kiara Rodriguez,52,Córdoba,169192,1754129.77,2.2
+817,Malena Garcia Cruz,28,Tucumán,252730,2666242.17,3.05
+818,Juan Pablo Valentino Luna,61,Santa Fe,131565,2788966.25,5.03
+819,Victoria Luna Suarez Ledesma,63,Chaco,50000,1432190.76,4.9
+820,Catalina Valentino Caceres Gimenez,46,Buenos Aires,212012,3623980.46,4.66
+821,Sr(a). Alexander Fernandez,47,Córdoba,111923,1190558.06,3.71
+822,Sr(a). Jazmín Luna,21,Neuquén,192652,1651384.23,3.14
+823,Joaquina Ignacio Figueroa,47,Mendoza,186577,4358855.95,5.43
+824,Tiziano Mora Caceres Ayala,70,Buenos Aires,120802,1313746.72,3.54
+825,Lorenzo Francesco Diaz,65,Santa Fe,178533,3874125.41,6.23
+826,Juan Cruz Thiago Benjamin Quiroga,40,CABA,188493,3398490.7,5.38
+827,Dr(a). Sara Perez,52,Buenos Aires,227736,3405096.78,4.23
+828,Malena Juan Manuel Acuña,48,Buenos Aires,187911,3516254.45,6.38
+829,Valentin Camila Garcia Martinez,36,Salta,218381,2373896.2,2.47
+830,Micaela Bautista Ramirez Vargas,59,Salta,239049,1409424.73,1.42
+831,Dr(a). Francesco Luna,41,Salta,50000,1685960.55,8.4
+832,Thiago Benjamin Juan Martin Godoy,42,Salta,256730,4154032.0,4.4
+833,Juan Manuel Antonella Lopez Miranda,23,Neuquén,306460,1836788.3,1.78
+834,Valentino Garcia,25,Córdoba,317723,4320096.82,3.0
+835,Dr(a). Ignacio Sanchez,52,Salta,73046,2951886.7,15.25
+836,Lisandro Federico Juarez Sosa,32,Buenos Aires,176738,3086593.76,5.29
+837,Jazmin Rodriguez,66,Buenos Aires,288397,2648080.64,2.67
+838,Dr(a). Geronimo Moyano,64,Neuquén,187980,2405805.45,3.27
+839,Francisco Francisca Navarro Rojas,45,Neuquén,158052,1936503.13,2.4
+840,Mateo Benjamin Luciano Maldonado,47,Tucumán,239752,2448643.57,2.48
+841,Sofía Juan Pablo Ortiz,27,Mendoza,261528,2917057.76,3.14
+842,Santiago Julieta Rojas,66,CABA,351170,3238998.5,2.88
+843,Benjamin Rodriguez Rojas,20,Salta,59140,2644601.36,11.68
+844,Sr(a). Julieta Farias,74,Buenos Aires,75936,1439083.45,6.28
+845,Tomas Benjamin Geronimo Suarez,33,Santa Fe,297949,2703379.46,2.07
+846,Morena Rios Rodriguez,46,Chaco,244071,2637054.11,3.01
+847,Sr(a). Martina Torres,61,Buenos Aires,200796,3955041.91,4.24
+848,Felipe Lorenzo Perez,46,Santa Fe,224052,1472428.83,2.09
+849,Delfina Rivero,52,Santa Fe,203813,2276658.42,3.32
+850,Lucía Elena Acosta,26,Neuquén,61655,4078979.69,18.52
+851,Felipe Farias,36,Santa Fe,252112,1842817.23,2.45
+852,Sr(a). Ciro Mansilla,38,Chaco,81190,3486012.53,11.67
+853,Juan Martina Herrera,56,Tucumán,213442,1281191.2,1.07
+854,Dr(a). Jeronimo Alvarez,60,Neuquén,362990,2123378.97,1.34
+855,Dr(a). Thiago Benjamin Aguero,32,Salta,191147,3155226.79,3.97
+856,Lucía  Ana Paula Duarte,55,Córdoba,226957,4795440.32,5.3
+857,Malena Santino Benjamin Perez Ledesma,58,Salta,176719,3156302.79,4.71
+858,Emma Malena Pereyra,40,Salta,191477,3344251.18,3.72
+859,Guadalupe Olivia Castro,68,Neuquén,165252,1882915.0,3.76
+860,Tomàs Nuñez Garcia,27,Mendoza,275394,2926239.14,1.75
+861,Joaquín Ian Ezequiel Benitez Suarez,42,Córdoba,202514,2867458.79,3.72
+862,Juan Pablo Dylan Ojeda Vargas,72,Santa Fe,109416,3388650.92,9.72
+863,Lucas Ezequiel Ana Paula Sanchez,37,Córdoba,260948,2851398.81,1.64
+864,Dr(a). Santino Torres,53,Salta,50000,3037670.9,9.72
+865,Agostina Francesca Perez Gomez,44,Neuquén,122071,3024553.99,7.9
+866,Juan Francisco Tomàs Benitez Rodriguez,34,Santa Fe,185138,1515473.92,2.14
+867,Delfina Benicio Martin Ortiz,39,CABA,336904,2245681.17,2.16
+868,Francesca Franco Sanchez,23,Neuquén,127211,2348463.76,4.54
+869,Mateo Valentin Campos Leiva,64,Santa Fe,273803,4208554.09,4.03
+870,Charo Acuña,56,Chaco,224770,4216072.29,4.67
+871,Dante Silva Fernandez,20,CABA,251328,1247820.3,1.54
+872,Zoe Valentina Olivia Caceres,64,Neuquén,325393,3636560.87,3.03
+873,Emma Bautista Gonzalez,31,Entre Ríos,244543,3129034.23,4.51
+874,Dr(a). Valentina Cabrera,37,Buenos Aires,368590,1895053.15,1.52
+875,Isabella Alvaro Gomez Ayala,31,Santa Fe,238837,2779301.05,1.9
+876,Victoria Martinez Moreno,66,Entre Ríos,190567,3741856.15,6.94
+877,Carmela Tiziano Valentin Leiva,33,Chaco,176968,4241611.35,5.59
+878,Emanuel Valentino Dominguez Correa,33,Neuquén,122952,3503016.35,8.13
+879,Mia Sara Barrios Gonzalez,38,Mendoza,127688,3600982.98,10.04
+880,Valentino Gomez Paz,40,Mendoza,267342,2477020.55,2.27
+881,Dr(a). Ciro Ramirez,34,Tucumán,106481,2034926.84,5.95
+882,Sr(a). Felipe Pereyra,24,Entre Ríos,192453,4299697.93,5.81
+883,Manuel Martinez,66,Tucumán,266108,1637051.56,0.82
+884,Dr(a). Lucia Campos,44,Buenos Aires,160527,2057233.88,3.27
+885,Clara Lucas Juarez Alvarez,54,Santa Fe,199205,4282112.97,6.22
+886,Nicolas Lopez Alvarez,53,Chaco,185554,3698637.24,4.0
+887,Luciano Benjamin Gael Rojas Miranda,55,Salta,185188,1596931.03,2.33
+888,Sr(a). Ciro Silva,32,Salta,250755,2701461.55,3.65
+889,Vicente Ortiz,54,Santa Fe,83351,3092641.33,15.08
+890,Zoe Jazmin Valentino Mendez Acosta,61,Tucumán,200512,4045190.06,7.11
+891,Santino Agustin Figueroa Perez,34,Entre Ríos,312091,2491886.85,2.3
+892,Lucía  Leiva,49,Entre Ríos,176058,2617401.55,3.36
+893,Catalina Mateo Ezequiel Ledesma Diaz,28,Tucumán,262038,2209242.36,3.01
+894,Maximo Victoria Maldonado,49,Córdoba,311623,2502555.34,1.86
+895,Ian Flores,74,Neuquén,400494,4238444.65,2.77
+896,Dr(a). Ciro Bustos,51,Buenos Aires,187795,1863173.85,2.66
+897,Sr(a). Clara Franco,71,CABA,311857,2322726.88,2.43
+898,Amparo Antonella Gutierrez Cabrera,66,Buenos Aires,159878,1828477.65,3.9
+899,Mateo Vicente Rojas,44,Córdoba,231882,1998943.1,2.77
+900,Sr(a). Mora Gimenez,63,Córdoba,151494,3862035.56,6.83
+901,Sofia Belen Tiziano Valentin Quiroga,18,Santa Fe,122725,3559447.37,6.8
+902,Olivia Figueroa,57,Chaco,197215,2956297.87,3.75
+903,Lucas Benjamin Luna Pereyra,48,Entre Ríos,298132,1700549.08,1.38
+904,Dr(a). Juan Bautista Ramirez,44,Buenos Aires,209732,1833593.5,2.11
+905,Delfina Thiago Agustin Garcia Luna,19,Neuquén,182773,3648523.99,4.51
+906,Sebastian Acosta,36,Buenos Aires,102405,2415763.75,5.0
+907,Julian Constantino Rodriguez Lopez,50,Salta,260648,2870046.97,3.4
+908,Sr(a). Alfonsina Cruz,24,CABA,50000,1307299.33,8.17
+909,Martina Thiago Garcia Martinez,51,Córdoba,206310,1525857.37,1.99
+910,Emma Bautista Mendoza Cardozo,34,Tucumán,311076,1434460.63,0.91
+911,Sr(a). Benjamin Lopez,35,Salta,377990,3340450.86,3.0
+912,Sr(a). Valentina  Gutierrez,47,Chaco,296428,4045298.32,2.51
+913,Thiago Nahuel Santiago Lopez,33,Santa Fe,153633,3267721.12,5.6
+914,Sr(a). Luciana Gonzalez,23,Buenos Aires,342780,4205843.28,3.0
+915,Ana Paula Fernandez,23,Salta,126347,2866391.67,5.36
+916,Nicolas Thiago Nahuel Fernandez Aguirre,21,Buenos Aires,269808,1685148.89,1.3
+917,Salvador Rojas,62,Córdoba,334171,5252037.99,3.26
+918,Guadalupe Nuñez Fernandez,59,Tucumán,276738,3212936.17,3.18
+919,Delfina Gonzalez,54,CABA,341632,1965343.14,1.45
+920,Octavio Mia Jazmin Ledesma,32,Santa Fe,89841,3400121.98,11.77
+921,Lucía Gomez Lopez,75,Chaco,175588,3226337.82,5.3
+922,Bastian Felipe Vargas Arias,22,Mendoza,203788,1277029.49,0.89
+923,Dylan Benjamin Thiago Ezequiel Garcia Lopez,75,Neuquén,180932,1106342.16,2.43
+924,Emma Martinez,72,Tucumán,191960,2910807.74,4.26
+925,Santiago Fernandez Sanchez,19,Santa Fe,85847,3388424.92,11.06
+926,Antonio Ian Benjamin Ledesma,63,Salta,130504,1631003.66,2.33
+927,Thiago Benjamin Avila,22,Mendoza,231019,1753651.07,2.69
+928,Mateo Valentin Bautista Gonzalez Dominguez,71,Salta,250582,1941059.23,1.69
+929,Dr(a). Benicio Lopez,61,Neuquén,134028,3358684.93,5.55
+930,Dr(a). Lola Garcia,26,CABA,316973,3857919.63,2.89
+931,Bautista Juan Bautista Romero,50,Tucumán,280928,3441362.23,2.09
+932,Zoe Lopez,71,CABA,228389,2423723.37,3.24
+933,Sr(a). Francesca Silva,39,Chaco,223723,4287367.37,4.96
+934,Dr(a). Franco Rivero,43,Tucumán,50000,1859575.41,12.02
+935,Luz Maria Isabella Ledesma Vera,19,Mendoza,218318,3593961.77,4.24
+936,Geronimo Josefina Rojas Gomez,32,Tucumán,114387,4255274.15,8.57
+937,Luca Diaz,53,Salta,90183,1740342.53,9.01
+938,Dr(a). Bruno Sanchez,60,Salta,250127,3216165.88,3.49
+939,Sr(a). Juan Manuel Gomez,23,Chaco,183072,1854638.16,2.71
+940,Mia Morena Aguero,22,CABA,257752,3303578.95,3.78
+941,Sr(a). Tiziana Diaz,35,Córdoba,97920,3394191.94,7.69
+942,Francisca Juan Manuel Molina Garcia,27,Salta,295859,3628032.49,2.15
+943,Thiago Leonel Luna Morales,38,Tucumán,206403,3647358.91,4.74
+944,Jazmin Francisco Gimenez,37,Entre Ríos,205067,1911929.13,1.98
+945,Thiago Benjamin Garcia,41,Mendoza,227379,2203288.92,2.67
+946,Felipe Lorenzo Sosa,45,Entre Ríos,220484,3074033.76,3.75
+947,Thiago Valentin Aguero Rodriguez,53,Neuquén,162757,3548175.79,7.06
+948,Pedro Luciano Martinez,23,Tucumán,197083,1452069.27,2.03
+949,Ema Lopez,53,CABA,85047,3688083.58,12.7
+950,Mateo Valentin Blanco,73,Salta,119829,1831851.78,4.71
+951,Pedro Ponce Guzman,18,Mendoza,80854,1149918.7,6.77
+952,Sr(a). Clara Ramos,64,Neuquén,271671,2935270.54,3.52
+953,Lorenzo Santiago Ramirez,75,Santa Fe,156130,2599379.81,6.38
+954,Pilar Franco Flores Escobar,42,Córdoba,178692,5807566.62,5.72
+955,Agustina Maria Emilia Coronel Acosta,26,Mendoza,170551,1208604.64,1.54
+956,Morena Jazmin Tobias Aguirre Herrera,22,Córdoba,288489,2334793.09,2.46
+957,Sr(a). Tiziano Vera,45,Mendoza,119023,3877405.76,7.93
+958,Lucía Chavez,22,Tucumán,243790,1065249.97,1.47
+959,Isabella Enzo Ramirez,34,Santa Fe,182977,3698272.77,4.55
+960,Sofia Juan Bautista Gonzalez,57,Santa Fe,107938,3256180.27,11.62
+961,Valentina Juan Ignacio Torres,47,CABA,206144,1770758.96,2.51
+962,Josefina Garcia,43,Tucumán,207012,2990621.41,2.91
+963,Bautista Jazmin Gimenez Miranda,71,Chaco,83968,1555123.86,5.38
+964,Mateo Joaquin Nahiara Jazmin Aguero,46,Tucumán,309112,4076950.39,3.22
+965,Mia Valentina Lautaro Benjamin Diaz Moreno,45,Chaco,246149,2913420.83,3.53
+966,Valentina Rodriguez,62,Santa Fe,253097,3593171.78,4.28
+967,Pedro Rojas,48,Tucumán,235409,1499318.42,1.73
+968,Simon Escobar Herrera,38,Mendoza,272438,2559374.99,1.57
+969,Sofía Mateo Vazquez,65,Entre Ríos,336774,1808544.93,1.5
+970,Benicio Roldan,38,Salta,171911,3409110.53,5.78
+971,Dante Medina Gonzalez,35,Salta,77292,1691221.66,5.65
+972,Federico Ruiz,30,Chaco,339158,2614316.1,2.15
+973,Lucas Gonzalez,52,Córdoba,157935,898656.61,2.76
+974,Sr(a). Francisco Navarro,64,Entre Ríos,108053,967849.29,4.06
+975,Dr(a). Faustino Martinez,63,Santa Fe,138510,1878815.59,2.55
+976,Zoe Jazmin Antonia Farias,62,CABA,225039,2696405.19,2.4
+977,Ignacio Rodriguez,70,Salta,179622,3895639.76,4.49
+978,Rafael Mendoza Rios,37,Santa Fe,161231,1725749.33,2.02
+979,Catalina Sara Vargas Rios,34,Córdoba,169416,1885150.11,2.94
+980,Ana Paula Lopez,22,Entre Ríos,62215,1964221.82,5.34
+981,Valentino Gonzalez,56,Entre Ríos,114002,2683475.98,4.64
+982,Mateo Joaquin Catalina Vera,73,Salta,151131,2060014.0,4.95
+983,Dr(a). Tiziano Herrera,52,Buenos Aires,219112,3868595.74,5.48
+984,Luz Milagros Juana Velazquez,75,Neuquén,126940,1941373.68,3.87
+985,Juan Cruz Paez,56,CABA,246717,3314664.42,3.92
+986,Alma Martina Sanchez Romero,60,Tucumán,238337,4506345.02,4.77
+987,Juan Martin Castro,28,Chaco,420564,2793186.35,1.74
+988,Sr(a). Luciana Moyano,61,Salta,263024,4343511.81,3.79
+989,Angelina Lautaro Mansilla,66,Tucumán,282923,1721658.41,2.04
+990,Bautista Ema Martin Soto,18,CABA,181856,1386548.13,2.82
+991,Lucas Benjamin Facundo Castillo,34,Santa Fe,103456,3434571.9,8.84
+992,Joaquin Nicolas Gonzalez,55,Chaco,193514,2679010.45,4.32
+993,Agustin Mia Nuñez Torres,32,Entre Ríos,137263,2371728.76,5.74
+994,Felipe Herrera Acuña,61,Chaco,263435,2762063.67,2.78
+995,Sr(a). Lourdes Dominguez,62,Neuquén,362863,3176369.66,1.87
+996,Federico Catalina Ortiz Fernandez,48,CABA,426382,1453507.68,0.91
+997,Valentino Arias Moyano,36,Salta,229760,2279904.76,3.25
+998,Lola Lucía Gonzalez Rivero,71,Córdoba,183772,1818509.76,2.12
+999,Sr(a). Valentina Acosta,40,Mendoza,122658,1596004.47,5.66
+1000,Lola Juana Lopez,51,Entre Ríos,316833,1431112.09,1.26
